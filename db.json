@@ -1,4 +1,5 @@
-[
+{
+    "data": [
 
     {
         "id": 1,
@@ -9,3 +10,4 @@
     {"id": 3,"productname": "Dell Inspiron","quantity": 1},
     {"id": 4,"productname": "Logitech Keyboard,","quantity": 4}
   ]
+}
