@@ -3,21 +3,21 @@
     "data":[
         
         {
-         id: "ID",
-    productName: "Product Name",
-    quantity: "Quantity",
-    price: "Price",    
+         "id": "ID",
+    "productName" : "Product Name",
+    "quantity": "Quantity",
+    "price": "Price",    
         },
 
     {
         "id": 1,
         "productName": "Moto G5",
         "quantity":  2,
-         price: "Rs. 13000",
+         "price": "Rs. 13000",
         
         
     },
-    {"id": 2,"productName": "Racold Geyser","quantity":  3 ,price: "Rs. 6000",},
-    {"id": 3,"productName": "Dell Inspiron","quantity": 4,price: "Rs. 50000",}
+    {"id": 2,"productName": "Racold Geyser","quantity":  3 ,"price": "Rs. 6000",},
+    {"id": 3,"productName": "Dell Inspiron","quantity": 4,"price": "Rs. 50000",}
   ]
 }
