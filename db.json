@@ -1,6 +1,4 @@
-{
- 
- "data":[
+[
 
     {
         "id": 1,
@@ -12,4 +10,3 @@
     {"id": 4,"productname": "Logitech Keyboard,","quantity": 4}
   ]
 
-}
