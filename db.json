@@ -1,13 +1,6 @@
 
 {
     "data":[
-        
-        {
-         "id": "ID",
-    "productName" : "Product Name",
-    "quantity": "Quantity",
-    "price": "Price"    
-        },
 
     {
         "id": 1,
