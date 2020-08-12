@@ -1,5 +1,5 @@
 
-    
+{
     "data":[
         
         {
@@ -21,3 +21,4 @@
     {"id": 3,"productName": "Dell Inspiron","quantity": "4","price": "Rs. 50000"}
   ]
 
+}
