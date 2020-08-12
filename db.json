@@ -1,4 +1,4 @@
-{
+
     
     "data":[
         
@@ -20,4 +20,4 @@
     {"id": 2,"productName": "Racold Geyser","quantity":  "3" ,"price": "Rs. 6000"},
     {"id": 3,"productName": "Dell Inspiron","quantity": "4","price": "Rs. 50000"}
   ]
-}
+
